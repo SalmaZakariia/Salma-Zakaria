@@ -1,5 +1,5 @@
 # Personal information : 
-* ![](Salma.png)
+* ![](Salma.png =100x20)
 * Name : Salma Mohamed Zakaria  
 * Date Of Birth : 29/1/1997  
 * E_Mail : salmazakariia97@gmail.com 
