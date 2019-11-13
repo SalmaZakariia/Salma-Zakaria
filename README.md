@@ -11,6 +11,6 @@
 * Matlab
 * Python
 * LaTex
-* Python
+* C++
 * R Language
 * Git
