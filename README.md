@@ -1,7 +1,6 @@
 # Personal information : 
 * Name : Salma Mohamed Zakaria  
 * Date of Birth : 29/1/1997  
-* <a href="salmazakariia97@gmail.com" target="_blank">Gmail </a>
 * <a href="https://github.com/SalmaZakariia" target="_blank">Github </a>
 * <a href="https://www.facebook.com/salma.m.zakaria" target="_blank"> Facebook </a> 
 # Education : 
