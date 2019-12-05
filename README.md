@@ -2,7 +2,7 @@
 * Name : Salma Mohamed Zakaria  
 * Date of Birth : 29/1/1997  
 * <a href="https://github.com/SalmaZakariia" target="_blank">Github </a>
-* <a href="https://salmazakariia.github.io/Thoracic-Surgery/" target="_blank"> Blog </a>
+* <a href="https://salmazakariia.github.io/ThoracicSurgery/" target="_blank"> Blog </a>
 * <a href="https://www.facebook.com/salma.m.zakaria" target="_blank"> Facebook </a> 
 # Education : 
 * Cairo University, Faculty of Engineering, Systems and Biomedical Engineering. 
